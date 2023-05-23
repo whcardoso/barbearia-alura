@@ -1,0 +1,54 @@
+
+
+.sobre {
+    text-align: center;
+    margin: auto;
+    width: 940px;
+    padding: 20px;
+}
+
+.sobre h2 { 
+    font-size: 30px;
+    padding: 25px 0;
+}
+
+.sobre p {
+    padding: 10px 0;
+}
+
+p#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: red;
+}
+
+.beneficios {
+    background-color: #ccc;
+    padding: 40px 20px;
+}
+
+.beneficios h3 {
+    font-size: 30px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.imagem_beneficios {
+    width: 50%;
+}
+
+.beneficios ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    padding-left: 20px;
+    padding-top: 40px;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 2em;
+    box-sizing: border-box;
+}
+
